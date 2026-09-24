@@ -45,6 +45,8 @@ O mockup aplica uma paleta escura inspirada em cinema, com dourado como cor de d
 ```
 CineLista/
 ├── CineLista.docx                # Documentação de UX (wireframe, mockup, protótipo, teste de usabilidade)
+├── Kanban.md                     # Tabela do projeto
+├── README.md                     # README do repositório
 ├── index.html                    # Estrutura da aplicação
 ├── style.css                     # Estilos e identidade visual
 └── script.js                     # Lógica da aplicação (dados, navegação, estado, persistência)
@@ -52,7 +54,7 @@ CineLista/
 
 ## Plano de teste de usabilidade
 
-A documentação inclui um roteiro de teste de usabilidade com 6 tarefas (buscar por gênero, abrir detalhes, adicionar à watchlist, logar e avaliar, comentar, remover da watchlist), um questionário SUS simplificado (System Usability Scale) para medir o índice de usabilidade percebida, e uma planilha de registro dos resultados por participante. Os detalhes completos do roteiro, das perguntas e dos critérios de sucesso estão em `CineLista_Documentacao.docx`.
+A documentação inclui um roteiro de teste de usabilidade com 6 tarefas (buscar por gênero, abrir detalhes, adicionar à watchlist, logar e avaliar, comentar, remover da watchlist), um questionário SUS simplificado (System Usability Scale) para medir o índice de usabilidade percebida, e uma planilha de registro dos resultados por participante. Os detalhes completos do roteiro, das perguntas e dos critérios de sucesso estão em `CineLista.pdf`.
 
 ## Como executar
 
