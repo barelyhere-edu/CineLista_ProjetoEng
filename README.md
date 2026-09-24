@@ -44,7 +44,7 @@ O mockup aplica uma paleta escura inspirada em cinema, com dourado como cor de d
 
 ```
 CineLista/
-├── CineLista_Documentacao.docx   # Documentação de UX (wireframe, mockup, protótipo, teste de usabilidade)
+├── CineLista.docx                # Documentação de UX (wireframe, mockup, protótipo, teste de usabilidade)
 ├── index.html                    # Estrutura da aplicação
 ├── style.css                     # Estilos e identidade visual
 └── script.js                     # Lógica da aplicação (dados, navegação, estado, persistência)
