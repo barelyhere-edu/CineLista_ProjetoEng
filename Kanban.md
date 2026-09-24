@@ -2,6 +2,26 @@
 
 Status geral do projeto: **repositório no GitHub pronto, documentação completa, site funcional e validado por todos os integrantes do time.** A tabela abaixo reflete o projeto na etapa final, com as tarefas de execução concentradas em **Concluído** e apenas melhorias futuras no **Backlog**.
 
+## Integrantes da equipe
+
+```
+- Beatriz Ferrari                                    # RA: 826183109
+- Bridget Caroline Monay Bolivar da Costa            # RA: 826194982
+- Camila dos Santos Vieira                           # RA: 8261103075
+- Eduarda Capelas Barbosa                            # RA: 8261115447
+- Gabriel Caique Zerbinato Alcantara                 # RA: 826216891
+- Gabriel da Silva Barbosa                           # RA: 8261102283
+- Gabriel Dornelas Assis da Silva                    # RA: 826222766
+- Geovanna Rodrigues Petarnella de Oliveira          # RA: 826171997
+- João Lucas Palik                                   # RA: 826169884
+- João Tenório Da Silva Bezerra                      # RA: 826225652
+- Isabelle Santos Correia                            # RA: 826194609
+- Luana Silva Ribeiro                                # RA: 826183144
+- Maria Eduarda Ferreira Irineu Sarrico              # RA: 82526742
+- Maria Gabriela Alves Macedo                        # RA: 8261101600
+- Théo Gisondi Baptista                              # RA: 826218213
+```
+
 ## Backlog
 
 | ID | Tarefa | Categoria | Prioridade | Responsável |
